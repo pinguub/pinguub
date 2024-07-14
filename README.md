@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @pinguub
-- 👀 I’m interested in singing,body building,and play games.
-- 🌱 I’m currently learning segmentation in ultrasound video.
+- 👋 Hi, I’m ZhenWei Lin, under post graduate.
+- 👀 I’m interested in singing,body building,and video games.
+- 🌱 I’m currently learning deep learning.
 - 📫 How to reach me:19zwlin2@stu.edu.cn
 
 
